@@ -1,5 +1,8 @@
 theme: jekyll-theme-cayman
 
+github:
+  is_project_page: false
+
 title: Abel1802's blog
 
 description: 此去经年，应是，良辰好景虚设，便纵有，千种风情，更与何人说？
