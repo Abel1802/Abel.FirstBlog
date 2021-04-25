@@ -16,13 +16,13 @@
 
 
 ## 庄子
-### [逍遥游](XiaoYaoYou.md)
-### [齐物论](QiWuLun.md)
-### [养生主](YangShengZhu.md)
-### [人世间](RenShiJian.md)
-### [德充符](DeChongFu.md)
-### [大宗师](DaZongShi.md)
-### [应帝王](YingDiWang.md)
+### [逍遥游](ZhuangZi/XiaoYaoYou.md)
+### [齐物论](ZhuangZi/QiWuLun.md)
+### [养生主](ZhuangZi/YangShengZhu.md)
+### [人世间](ZhuangZi/RenShiJian.md)
+### [德充符](ZhuangZi/DeChongFu.md)
+### [大宗师](ZhuangZi/DaZongShi.md)
+### [应帝王](ZhuangZi/YingDiWang.md)
 
 
 ## 杂项
