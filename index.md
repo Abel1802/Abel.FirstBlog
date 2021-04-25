@@ -2,9 +2,9 @@
 
 ## 唐诗
 
-### [李白篇](./Tang/libai.md) 
-### [杜甫篇](dufu.md)
-### [白居易篇](baijuyi.md)
+### [李白篇](Tang/libai.md) 
+### [杜甫篇](Tang/dufu.md)
+### [白居易篇](Tang/baijuyi.md)
 
 
 ## 宋词
