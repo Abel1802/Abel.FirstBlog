@@ -2,7 +2,7 @@
 
 ## 唐诗
 
-### [李白篇](libai.md) 
+### [李白篇](./Tang/libai.md) 
 ### [杜甫篇](dufu.md)
 ### [白居易篇](baijuyi.md)
 
